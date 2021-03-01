@@ -9,10 +9,11 @@ The 3 first folders are named after the 3 experiments conducted with the Kuka Ro
 The m-files folder contains the matlab library developped during my master thesis and necessary to run the code written in mainPreprocessing.m.
     
 ## Screenshots
-<img src="GNSS-IMU/Images/Timeshift.jpg" width="450">
-<img src="GNSS-IMU/Images/GNSS_transformation.jpg" width="450">
-<img src="GNSS-IMU/Images/IMU_transformation.jpg" width="450">
-<img src="GNSS-IMU/Images/IMU_comparison.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/Timeshift.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/GNSS_transformation.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/IMU_transformation.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/IMU_comparison.jpg" width="450">
+
 
 ## Software requirement
 Runnig has been tested on Ubuntu 18.04 with Matlab R2020b.
