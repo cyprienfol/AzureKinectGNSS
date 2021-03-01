@@ -12,7 +12,7 @@ The m-files folder contains the matlab library developped during my master thesi
 <img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/Timeshift.jpg" width="450">
 <img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/GNSS_transformation.jpg" width="450">
 <img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/IMU_transformation.jpg" width="450">
-<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/IMU_comparison.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/IMU_comparison.jpg" width="450">
 
 
 ## Software requirement
