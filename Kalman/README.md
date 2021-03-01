@@ -9,10 +9,11 @@ The 3 first folders are named after the 3 experiments conducted with the Kuka Ro
 The m-files folder contains the matlab library developped during my master thesis and necessary to run the code in mainKalman.m performing the sensor fusion of the sensors mounted on the platform. 
     
 ## Screenshots
-<img src="AzureKinectGNSS/Images/Position_fusion.jpg" width="450">
-<img src="AzureKinectGNSS/Images/Residual_position.jpg" width="450">
-<img src="AzureKinectGNSS/Images/Orientation_fusion.jpg" width="450">
-<img src="AzureKinectGNSS/Images/Residual_orientation.jpg" width="450">
+
+<img src="Images/Position_fusion.jpg" width="450">
+<img src="Images/Residual_position.jpg" width="450">
+<img src="Images/Orientation_fusion.jpg" width="450">
+<img src="Images/Residual_orientation.jpg" width="450">
 
 ## Software requirement
 Runnig has been tested on Ubuntu 18.04 with Matlab R2020b.
