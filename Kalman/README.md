@@ -10,7 +10,7 @@ The m-files folder contains the matlab library developped during my master thesi
     
 ## Screenshots
 
-<img src="Images/Position_fusion.jpg" width="450">
+<img src="cyprienfol.github.com/AzureKinectGNSS/Images/Position_fusion.jpg" width="450">
 <img src="Images/Residual_position.jpg" width="450">
 <img src="Images/Orientation_fusion.jpg" width="450">
 <img src="Images/Residual_orientation.jpg" width="450">
