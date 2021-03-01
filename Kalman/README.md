@@ -10,10 +10,10 @@ The m-files folder contains the matlab library developped during my master thesi
     
 ## Screenshots
 
-<img src="Images/Position_fusion.jpg" width="450">
-<img src="Images/Residual_position.jpg" width="450">
-<img src="Images/Orientation_fusion.jpg" width="450">
-<img src="Images/Residual_orientation.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/Position_fusion.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/Residual_position.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/Orientation_fusion.jpg" width="450">
+<img src="https://github.com/cyprienfol/AzureKinectGNSS/blob/main/Images/Residual_orientation.jpg" width="450">
 
 ## Software requirement
 Runnig has been tested on Ubuntu 18.04 with Matlab R2020b.
